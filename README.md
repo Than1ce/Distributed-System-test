@@ -1,4 +1,4 @@
-# Distributed-System-test
+# *** This is the Development Environment for Distributed-System-test Project ***
 
 Download the JDK 8 version:
 
